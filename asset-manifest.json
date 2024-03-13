@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Blood_hub/static/css/main.503d4dc2.css",
+    "main.js": "/Blood_hub/static/js/main.2cdb0d3f.js",
+    "static/media/i1.jpg": "/Blood_hub/static/media/i1.1b5bf0df5c14d3b27251.jpg",
+    "static/media/i2.jpg": "/Blood_hub/static/media/i2.523c7ea7884b3a2ad018.jpg",
+    "static/media/i4.jpg": "/Blood_hub/static/media/i4.88c3c2aa87060af051cc.jpg",
+    "static/media/i5.png": "/Blood_hub/static/media/i5.81111ab85fbb9b2a7471.png",
+    "static/media/31.webp": "/Blood_hub/static/media/31.f5bdbefd72d524ce4a9e.webp",
+    "index.html": "/Blood_hub/index.html",
+    "main.503d4dc2.css.map": "/Blood_hub/static/css/main.503d4dc2.css.map",
+    "main.2cdb0d3f.js.map": "/Blood_hub/static/js/main.2cdb0d3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.503d4dc2.css",
+    "static/js/main.2cdb0d3f.js"
+  ]
+}
